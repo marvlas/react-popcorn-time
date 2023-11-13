@@ -3,3 +3,10 @@
     border-bottom: 1px solid #fff;
 }
 
+.Header a {
+    color: blue;
+}
+
+.Header .active {
+    color: orange;
+}
